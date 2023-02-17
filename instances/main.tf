@@ -113,7 +113,7 @@ resource "aws_instance" "tf-practise" {
   vpc_security_group_ids      = [aws_security_group.sg_22_80.id]
   associate_public_ip_address = true
   # user_data                   = file("../scripts/apache_server_script.sh")
-  user_data = file("../scripts/initial_setup_1.sh")
+  user_data = file("../scripts/initial_setup.sh")
   # user_data                   = data.template.user_data.rendered
 
 
