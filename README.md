@@ -1,1 +1,5 @@
 # AWS_UBUNTU_TERRAFORM
+
+<h2>This is work under the Preparation for Terraform Certification.</h2>
+<h2>This Terraform Code can be advanced further using Modules & other available terraform features.</h2>
+<h2>Cloning this repo will & performing terraform operation will provision Infrastructure with EC2 Instance with ubuntu image & Terraform, Docker, AWS-CLI softwares installed.<h2>
